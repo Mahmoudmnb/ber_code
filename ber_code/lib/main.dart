@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
           colorScheme: const ColorScheme(
             surfaceTint: Colors.lightGreenAccent,
             error: Colors.red,
-            onError: Colors.redAccent,
+            onError: Colors.orange,
             background: Colors.deepOrangeAccent,
             onBackground: Colors.deepOrange,
             surface: Colors.redAccent,
